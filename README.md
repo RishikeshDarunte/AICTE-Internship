@@ -6,7 +6,7 @@
 ## 📌 Project Overview
 This project was developed as part of the **AICTE Internship on AI: Transformative Learning with TechSaksham**. It is an **AI-powered Resume Screening System** that ranks candidates based on job descriptions using **TF-IDF vectorization** and **cosine similarity**. The system extracts text from **PDF resumes**, preprocesses the content, and compares it against the job description to generate similarity scores.
 
-![Resume Screening System](https://github.com/RishikeshDarunte/AICTE-Internship/blob/main/Dashboard.png)
+![Resume Screening System](https://github.com/RishikeshDarunte/AICTE-Internship/blob/main/Img/Dashboard.png)
 ---
 
 ## 🎯 Key Features
