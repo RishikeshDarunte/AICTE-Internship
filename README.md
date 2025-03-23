@@ -47,7 +47,7 @@ This project was developed as part of the **AICTE Internship on AI: Transformati
 -To install the required Python packages, run the following command:
 
     
-    pip install -r requirements.txt  
+    pip install streamlit PyPDF2 pandas numpy scikit-learn matplotlib seaborn
     
 ---
 
